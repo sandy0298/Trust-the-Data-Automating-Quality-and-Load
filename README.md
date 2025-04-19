@@ -7,6 +7,9 @@
 This repository outlines an end-to-end **Data Processing Workflow** built on **Google Cloud Platform (GCP)**. The process begins with files arriving in a **Google Cloud Storage (GCS)** bucket and continues through a series of validation and transformation steps, ending with a success notification.
 
 ---
+## Architecture Diagram
+
+<img src ="https://github.com/sandy0298/Trust-the-Data-Automating-Quality-and-Load/blob/main/images/automation.jpg" width="800" height="600" alt="architecture"/> &emsp;
 
 ## 🔁 Workflow Steps
 
@@ -46,6 +49,11 @@ This repository outlines an end-to-end **Data Processing Workflow** built on **G
 - If the data fails the quality checks, the pipeline halts and a **failure email** is sent to notify the appropriate team.
 
 ---
+
+## Flowchart Diagram
+
+<img src ="https://github.com/sandy0298/Trust-the-Data-Automating-Quality-and-Load/blob/main/images/flowchart.png" width="800" height="900" alt="architecture"/> &emsp;
+
 
 ## 📦 Technologies Used
 
